@@ -7,9 +7,9 @@
 
 ## Sobre mí
 - 👧💻 Estoy estudiando Desarrollo Web en Laboratoria..
-- 🌱 Actualmente estoy aprendiendo Javascript, HTML, CSS, Node.js y npm.
-- 💞️ Busco colaborar en proyectos que me ayuden a practicar y potencializar mis habilidades.
-- 📫 contactarse conmigo lindamreyesr@gmail.com
+- 👩🏻‍💻 Actualmente estoy aprendiendo Javascript, HTML, CSS, Node.js y npm.
+- 🔎 Busco colaborar en proyectos que me ayuden a practicar y potencializar mis habilidades.
+- 📧 contactarse conmigo lindamreyesr@gmail.com
 
 ## Contacto
 
