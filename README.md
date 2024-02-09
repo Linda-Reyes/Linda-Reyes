@@ -6,8 +6,9 @@
 ![Linda M Reyes](https://github.com/Linda-Reyes/Linda-Reyes/assets/142233270/248f7c20-ee3e-44f4-aaf7-85502a433d77)
 
 ## Sobre mí
-- 👧💻 Estoy estudiando Desarrollo Web en Laboratoria..
-- 👩🏻‍💻 Actualmente estoy aprendiendo Javascript, HTML, CSS, Node.js y npm.
+- 👧💻 Estoy estudiando Desarrollo Web.
+- 👩🏻‍💻 Termine el Bootcamp de Desarrollo Web con Laboratoria.
+- 💻 Actualmente estoy aprendiendo Javascript, HTML, CSS, React, Node.js y npm.
 - 🔎 Busco colaborar en proyectos que me ayuden a practicar y potencializar mis habilidades.
 - 📧 contactarse conmigo lindamreyesr@gmail.com
 
