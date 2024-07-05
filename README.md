@@ -9,7 +9,7 @@
 - 👧💻 Soy Desarrolladora Web y siguo aprendiendo y estudiando.
 - 👩🏻‍💻 Termine el Bootcamp de Desarrollo Web con Laboratoria y empece uno nuevo con Talento Tech y la Universidad Sergio Arboleda.
 - 💻 Actualmente estoy aprendiendo Plantform Salesforce, Javascript, HTML, CSS, React, Node.js y npm.
-- 👍 La responsabilidad Social es lo mio. Junto a SORCOL y un grupo de DEsarroladores estamos creando una página web para enseñar lengua de señas.
+- 👍 La responsabilidad Social es lo mio. Junto a SORCOL y un grupo de Desarroladores estamos creando una página web para enseñar lengua de señas.
      Nuestro objetivo es reducir la brecha de comunicación entre la población sorda y oyente.
 - 🔎 Busco colaborar en proyectos que me ayuden a practicar y potencializar mis habilidades.
 - 📧 contactarse conmigo lindamreyesr@gmail.com
