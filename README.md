@@ -6,7 +6,7 @@
 ![Linda M Reyes](https://github.com/Linda-Reyes/Linda-Reyes/assets/142233270/248f7c20-ee3e-44f4-aaf7-85502a433d77)
 
 ## Sobre mí
-- 👧💻 Soy Desarrolladora Web y siguo aprendiendo y estudiando.
+- 👧💻 Soy Desarrolladora Web y sigo aprendiendo y estudiando.
 - 👩🏻‍💻 Termine el Bootcamp de Desarrollo Web con Laboratoria y empece uno nuevo con Talento Tech y la Universidad Sergio Arboleda.
 - 💻 Actualmente estoy aprendiendo Plantform Salesforce, Javascript, HTML, CSS, React, Node.js y npm.
 - 👍 La responsabilidad Social es lo mio. Junto a SORCOL y un grupo de Desarroladores estamos creando una página web para enseñar lengua de señas.
